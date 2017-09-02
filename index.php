@@ -1,3 +1,9 @@
+<?php
+/**
+@author Tiago da Silva Sousa <acrossicauda@hotmail.com.br><acrossicauda@gmail.com>
+@telefone (11)96442-6727
+*/
+?>
 <html>
 <head>
 	<title>Comprar</title>
@@ -56,7 +62,7 @@
 
 				</nav>
 
-		<footer><ul class="lista"><li><a href="index.php">Home</a></li><li><a href="">Comprar</a></li><li><a href="visualizar.php">Visualizar</a></li></ul></footer>
+		<footer><ul class="lista"><li><a href="index.php">Home</a></li><li><a href="visualizar.php">Visualizar</a></li></ul></footer>
 			</div>
 		</div>
 	</div>
