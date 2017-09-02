@@ -26,11 +26,11 @@ class Connect
 
 		if ($sql) {		
     		echo "<script>alert('Cadastro Concluído!')</script>";
-    		//header("refresh:0; url=comprar.php");
+    		
 
 		} else {
 			echo "<script>alert('Fail')</script>";
-			//header("refresh:0; url=comprar.php");
+			
 		}
 
 	}

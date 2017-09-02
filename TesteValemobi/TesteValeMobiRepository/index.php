@@ -56,7 +56,7 @@
 
 				</nav>
 
-		<footer><ul class="lista"><li><a href="index.php">Home</a></li><li><a href="">Comprar</a></li><li><a href="visualizar.php">Visualizar</a></li></ul></footer>
+		<footer><ul class="lista"><li><a href="index.php">Home</a></li><li><a href="visualizar.php">Visualizar</a></li></ul></footer>
 			</div>
 		</div>
 	</div>
